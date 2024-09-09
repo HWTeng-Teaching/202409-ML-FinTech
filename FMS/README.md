@@ -1,4 +1,6 @@
-Please rename your pdf filename use your index number. 
+Please rename your pdf filename use your index number + name.
+
+For example, 11_Ben.pdf
 
 Thank you! 
 
