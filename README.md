@@ -15,7 +15,7 @@ Here is the updated table with the "Topic" column removed:
 | 3     | 何泫霆                         | Scottie             |
 | 4     | 陳品妤                         |                     |
 | 5     | 包坤達                         | Kevin               |
-| 6     | 廖宥棋                         |                     |
+| 6     | 廖宥棋                         | Sabrina                    |
 | 7     | 湯子瑩                         | Rebecca             |
 | 8     | 庫燈烙 Pinyo Kewdumrongtum      | Pinyo               |
 | 9     | 葛斯壯 Hampus Fink Gärdström    | Hampus              |
