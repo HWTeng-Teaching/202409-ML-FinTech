@@ -1,1 +1,51 @@
+# %%
+#a 
+#b read the data 
+import pandas as pd
+path=r"C:\Users\坤達\Downloads\College_Data.csv"
+college=pd.read_csv(path)
+college
 
+# %%
+#c describe the data
+college.describe()
+
+# %%
+#d produce the scatter plotmatrix of ['Top10perc','Apps','Enroll']
+column=['Top10perc','Apps','Enroll']
+pd.plotting.scatter_matrix(pd.DataFrame(college[column]))
+
+# %%
+#e produce side-by-side boxplots of ('Outside','Private')
+college.boxplot('Outside','Private')
+
+# %%
+#f(1) create new variable elite
+college['Elite']=pd.cut(college['Top10perc'],[0,0.5,1],labels=['no','yes'])
+#f(2) use value_counts() to see how many elite universities there are
+college['Elite'].value_counts()
+
+
+# %%
+#f(3) use boxplot() to produce side-by-side boxplots of outstate vs elite
+college.boxplot('Outstate','Elite')
+
+# %%
+import matplotlib.pyplot as plt
+fig,ax=plt.subplots(2,2)
+college['PhD'].hist(ax=ax[0,0],bins=10)
+college['Outstate'].hist(ax=ax[0,1],bins=15)
+college['Enroll'].hist(ax=ax[1,0],bins=20)
+college['Books'].hist(ax=ax[1,1],bins=25)
+
+# %%
+#h what's your discover
+plt.scatter(college['F.Undergrad'],college['P.Undergrad'])
+plt.xlabel('F.Undergrad')
+plt.ylabel('P.Undergrad')
+plt.title('F.undergrad vs P.Undergrad')
+plt.show()
+
+# %% [markdown]
+# 1.There is a small positive relationship between each other
+# 2.An outlier is discovered which its variable P.undergrad exceeds 20000
