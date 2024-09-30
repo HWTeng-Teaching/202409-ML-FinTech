@@ -1,2 +1,1 @@
-# Reference answer for homework
-It is not a model answer, just for reference
+![question cap](https://github.com/user-attachments/assets/48d88973-0d8c-441c-9d83-86891479a566)
