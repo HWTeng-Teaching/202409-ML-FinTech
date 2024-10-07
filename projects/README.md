@@ -8,6 +8,7 @@
 | 5  |「機器學習應用於偵測信用卡詐欺的績效評估」                                   | Kevin, Ling                              |
 | 6  | 基於ESG語氣用字的投資策略報酬預測                                         | Sabrina                                  |
 | 7  | Cryptocurrency High-Frequency Trading Strategy based on Orderbook Behavior | lynn                               |
+| 8  |Rent price prediction                                                 | Jack                                     |
 
 ## Students Name list
 | Index | Name                          | Nick Name (English) |
