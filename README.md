@@ -3,8 +3,7 @@
 In case students are confused about how to create a folder to upload their homework, you can check this link. I hope it can help.
 https://www.alpharithms.com/how-to-create-a-folder-in-github-repos-463022/#:~:text=Overview.%20The%20steps%20for%20creating%20a%20folder%20in
 
-## Project list
-Here is the updated table with the "Topic" column removed:
+## Students Name list
 
 | Index | Name                          | Nick Name (English) |
 | :---  | :---                          | :---:               |
