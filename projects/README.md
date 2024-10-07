@@ -1,13 +1,13 @@
 # Projects Name list
-| #  | Project Title                                                        | Students                                      |
-|----|----------------------------------------------------------------------|-----------------------------------------------|
-| 1  | Credit Risk Prediction                                               | Edison, Scottie                               |
-| 2  | Credit card default prediction                                       | Elaine                                        |
-| 3  | 股價預測，以NVIDIA為例                                                  | Ben, Apple, Simon                             |
-| 4  | Maximizing Long-Term Portfolio Growth in Global Private Equity       | Pinyo, Ethan, Rebecca                         |
-| 5  |「機器學習應用於偵測信用卡詐欺的績效評估」                                   | 包坤達(Kevin), 郭奕伶(Ling)                     |
-| 6  | 基於ESG語氣用字的投資策略報酬預測                                         | Sabrina_312707045_廖宥棋                       |
-| 7  | Cryptocurrency High-Frequency Trading Strategy based on Orderbook Behavior | lynn                                    |
+| #  | Project Title                                                        | Students                                |
+|----|----------------------------------------------------------------------|-----------------------------------------|
+| 1  | Credit Risk Prediction                                               | Edison, Scottie                         |
+| 2  | Credit card default prediction                                       | Elaine                                  |
+| 3  | 股價預測，以NVIDIA為例                                                  | Ben, Apple, Simon                       |
+| 4  | Maximizing Long-Term Portfolio Growth in Global Private Equity       | Pinyo, Ethan, Rebecca                   |
+| 5  |「機器學習應用於偵測信用卡詐欺的績效評估」                                   | Kevin, Ling                              |
+| 6  | 基於ESG語氣用字的投資策略報酬預測                                         | Sabrina                                  |
+| 7  | Cryptocurrency High-Frequency Trading Strategy based on Orderbook Behavior | lynn                               |
 
 ## Students Name list
 | Index | Name                          | Nick Name (English) |
