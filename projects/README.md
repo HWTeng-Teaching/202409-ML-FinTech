@@ -9,6 +9,7 @@
 | 6  | 基於ESG語氣用字的投資策略報酬預測                                         | Sabrina                                  |
 | 7  | Cryptocurrency High-Frequency Trading Strategy based on Orderbook Behavior | lynn                               |
 | 8  |Rent price prediction                                                 | Jack                                     |
+| 9  |Predicting Stock Buy and Sell Points Using ML with technical Indicators| Roy                                     |
 
 ## Students Name list
 | Index | Name                          | Nick Name (English) |
