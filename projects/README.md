@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/58c0096c-1853-45fe-8cba-b07597e72ee9)![image](https://github.com/user-attachments/assets/c820e188-d566-4bc8-8d84-8bbf87a22b91)# Projects Name list
+Projects Name list
 | #  | Project Title                                                        | Students                                |
 |----|----------------------------------------------------------------------|-----------------------------------------|
 | 1  | Credit Risk Prediction                                               | Edison, Scottie                         |
