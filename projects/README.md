@@ -1,4 +1,4 @@
-# Projects Name list
+![image](https://github.com/user-attachments/assets/58c0096c-1853-45fe-8cba-b07597e72ee9)![image](https://github.com/user-attachments/assets/c820e188-d566-4bc8-8d84-8bbf87a22b91)# Projects Name list
 | #  | Project Title                                                        | Students                                |
 |----|----------------------------------------------------------------------|-----------------------------------------|
 | 1  | Credit Risk Prediction                                               | Edison, Scottie                         |
@@ -10,7 +10,7 @@
 | 7  | Cryptocurrency High-Frequency Trading Strategy based on Orderbook Behavior | lynn                               |
 | 8  |Rent price prediction                                                 | Jack                                     |
 | 9  |Predicting Stock Buy and Sell Points Using ML with technical Indicators| Roy                                     |
-| 10 | Betting against Beta in the Taiwan Market                             | Alice                                   | 
+| 10 |Catch a Volatility Contraction Pattern (VCP) Breakout in Taiwan Market| Alice                                   | 
 
 ## Students Name list
 | Index | Name                          | Nick Name (English) |
