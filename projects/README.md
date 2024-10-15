@@ -1,4 +1,4 @@
-Projects Name list
+## Projects Name list
 | #  | Project Title                                                        | Students                                |
 |----|----------------------------------------------------------------------|-----------------------------------------|
 | 1  | Credit Risk Prediction                                               | Edison, Scottie                         |
