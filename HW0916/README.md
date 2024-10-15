@@ -1,2 +1,8 @@
+# HW0916
 
-<img width="753" alt="image" src="https://github.com/user-attachments/assets/00cd8f0a-586a-4f76-af04-a0406bb75f7c">
+
+| Name    | INDEX    | Question                                                                                                                                                                                                 |
+|---------|----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Simon   | HW0916Q1 | Ch_02_Q08 in p.65                                                                                                                                                                                        |
+| Lynn    | HW0916Q2 | Ch_02_Q10 in p.67                                                                                                                                                                                        |
+| Scottie | HW0916Q3 | "[Portfolio Management] Download the dataset on NewE3 "Stocks_ClosePrice.csv" and start with the five stocks. Answer the following questions: <br/> 1. Find the mean and standard deviation of returns of these five stocks. <br/> 2. Plot the mean (x-axis) and risk (standard deviation) (y-axis) for these five returns using red stars in the 2-dimensional plane. <br/> 3. Randomly selected weights so that each weight is nonnegative and sums up to one. Print the random weight, the mean and standard deviation of the portfolio. <br/> 4. Repeat c) for 1000 times, and plot the mean and standard deviation for these artificial portfolios using blue points in the 2-dimensional plane in b). <br/> 5. Draw the efficiency frontier in the figure of b), assuming that no short sales are allowed. <br/> 6. Check if the efficiency frontier in e) is the envelope line of the blue points in d)." |
