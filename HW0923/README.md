@@ -1,1 +1,6 @@
-<img width="954" alt="cap" src="https://github.com/user-attachments/assets/211b58f6-14ae-41f8-8c6e-a36045eae942">
+# HW0923
+
+| Name  | INDEX    | Question                                    |
+|-------|----------|---------------------------------------------|
+| Alice | HW0923Q1 | Ch12_Q02 in p.552 (hierarchical clustering) |
+| Kevin | HW0923Q2 | Ch12_Q03 in p.553 (k-means)                 |
