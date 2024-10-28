@@ -11,6 +11,7 @@
 | 8  |Rent price prediction                                                 | Jack                                     |
 | 9  |Predicting Stock Buy and Sell Points Using ML with technical Indicators| Roy                                     |
 | 10 |Catch a Volatility Contraction Pattern (VCP) Breakout in Taiwan Market| Alice                                   | 
+| 11 | Amex Default Prediction                                              | Hampus                                   |
 
 ## Students Name list
 | Index | Name                          | Nick Name (English) |
