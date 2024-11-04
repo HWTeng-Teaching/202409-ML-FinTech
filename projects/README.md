@@ -1,3 +1,11 @@
+
+## Sample overleaf projects
+
+Rescaled-clustering in credit scoring 
+https://www.overleaf.com/read/nfqdcvdrrkbt#85ba4e
+
+
+
 ## Projects Name list
 | #  | Project Title                                                        | Students                                |
 |----|----------------------------------------------------------------------|-----------------------------------------|
