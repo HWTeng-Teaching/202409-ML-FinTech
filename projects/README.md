@@ -1,5 +1,7 @@
 
-## Sample overleaf projects
+# Projects
+
+## Overleaf projects
 
 - Rescaled-clustering in credit scoring 
 https://www.overleaf.com/read/nfqdcvdrrkbt#85ba4e
