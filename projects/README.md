@@ -12,7 +12,7 @@ https://www.overleaf.com/read/nfqdcvdrrkbt#85ba4e
 ## Projects Name list
 | #  | Project Title                                                        | Students                                | OVERLEAF|
 |----|----------------------------------------------------------------------|-----------------------------------------|---|
-| 1  | Credit Risk Prediction                                               | Edison, Scottie                         | A|
+| 1  | Credit Risk Prediction                                               | Scottie                         | A|
 | 2  | Credit card default prediction                                       | Elaine                                  | A|
 | 3  | 股價預測，以NVIDIA為例                                                  | Ben, Apple, Simon                       | A|
 | 4  | Maximizing Long-Term Portfolio Growth in Global Private Equity       | Pinyo, Ethan, Rebecca                   | B|
@@ -23,6 +23,9 @@ https://www.overleaf.com/read/nfqdcvdrrkbt#85ba4e
 | 9  |Predicting Stock Buy and Sell Points Using ML with technical Indicators| Roy                                     |C|
 | 10 |Catch a Volatility Contraction Pattern (VCP) Breakout in Taiwan Market| Alice                                   |  C|
 | 11 | Amex Default Prediction                                              | Hampus                                   | C |
+
+
+NOTE: Edison dropped the course. 
 
 ## Students Name list
 | Index | Name                          | Nick Name (English) |
