@@ -10,19 +10,19 @@ https://www.overleaf.com/read/nfqdcvdrrkbt#85ba4e
 
 
 ## Projects Name list
-| #  | Project Title                                                        | Students                                |
-|----|----------------------------------------------------------------------|-----------------------------------------|
-| 1  | Credit Risk Prediction                                               | Edison, Scottie                         |
-| 2  | Credit card default prediction                                       | Elaine                                  |
-| 3  | 股價預測，以NVIDIA為例                                                  | Ben, Apple, Simon                       |
-| 4  | Maximizing Long-Term Portfolio Growth in Global Private Equity       | Pinyo, Ethan, Rebecca                   |
-| 5  |「機器學習應用於偵測信用卡詐欺的績效評估」                                   | Kevin, Ling                              |
-| 6  | 基於ESG語氣用字的投資策略報酬預測                                         | Sabrina                                  |
-| 7  | Cryptocurrency High-Frequency Trading Strategy based on Orderbook Behavior | lynn                               |
-| 8  |Rent price prediction                                                 | Jack                                     |
-| 9  |Predicting Stock Buy and Sell Points Using ML with technical Indicators| Roy                                     |
-| 10 |Catch a Volatility Contraction Pattern (VCP) Breakout in Taiwan Market| Alice                                   | 
-| 11 | Amex Default Prediction                                              | Hampus                                   |
+| #  | Project Title                                                        | Students                                | OVERLEAF|
+|----|----------------------------------------------------------------------|-----------------------------------------|---|
+| 1  | Credit Risk Prediction                                               | Edison, Scottie                         | A|
+| 2  | Credit card default prediction                                       | Elaine                                  | A|
+| 3  | 股價預測，以NVIDIA為例                                                  | Ben, Apple, Simon                       | A|
+| 4  | Maximizing Long-Term Portfolio Growth in Global Private Equity       | Pinyo, Ethan, Rebecca                   | B|
+| 5  |「機器學習應用於偵測信用卡詐欺的績效評估」                                   | Kevin, Ling                              | B|
+| 6  | 基於ESG語氣用字的投資策略報酬預測                                         | Sabrina                                  | B|
+| 7  | Cryptocurrency High-Frequency Trading Strategy based on Orderbook Behavior | lynn                               | C|
+| 8  |Rent price prediction                                                 | Jack                                     | C|
+| 9  |Predicting Stock Buy and Sell Points Using ML with technical Indicators| Roy                                     |C|
+| 10 |Catch a Volatility Contraction Pattern (VCP) Breakout in Taiwan Market| Alice                                   |  C|
+| 11 | Amex Default Prediction                                              | Hampus                                   | C |
 
 ## Students Name list
 | Index | Name                          | Nick Name (English) |
