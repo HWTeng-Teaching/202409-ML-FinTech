@@ -25,8 +25,10 @@ https://www.overleaf.com/read/nfqdcvdrrkbt#85ba4e
 | 11 | Amex Default Prediction                                              | Hampus                                   | B |
 
 
-Group A: https://www.overleaf.com/read/gpyrydjbsxvg#9f615e
-Group B: https://www.overleaf.com/read/chvbwyjnmbdn#b8a374
+## Links for viewing 
+
+- Group A: https://www.overleaf.com/read/gpyrydjbsxvg#9f615e
+- Group B: https://www.overleaf.com/read/chvbwyjnmbdn#b8a374
 
 
 
