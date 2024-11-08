@@ -5,7 +5,8 @@
 
 - Rescaled-clustering in credit scoring 
 https://www.overleaf.com/read/nfqdcvdrrkbt#85ba4e
-- Everyone can view our shared overleaf with the shared link https://www.overleaf.com/read/gpyrydjbsxvg#9f615e
+- Group A: https://www.overleaf.com/read/gpyrydjbsxvg#9f615e
+- Group B: https://www.overleaf.com/read/chvbwyjnmbdn#b8a374
 
 
 
@@ -25,10 +26,6 @@ https://www.overleaf.com/read/nfqdcvdrrkbt#85ba4e
 | 11 | Amex Default Prediction                                              | Hampus                                   | B |
 
 
-## Links for viewing 
-
-- Group A: https://www.overleaf.com/read/gpyrydjbsxvg#9f615e
-- Group B: https://www.overleaf.com/read/chvbwyjnmbdn#b8a374
 
 ## Overleaf accounts 
 
