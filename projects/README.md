@@ -32,22 +32,24 @@ https://www.overleaf.com/read/nfqdcvdrrkbt#85ba4e
 
 ## Overleaf accounts 
 
-| Name       | Overleaf Account                     | Group |
-|------------|--------------------------------------|-------|
-| Elaine     | a0976512521@gmail.com                | A     |
-| Apple      | apple55500608@gmail.com              | A     |
-| Rebecca    | rebecca8411065596@gmail.com          | A     |
-| Simon      | simonhs.hs10@nycu.edu.tw             | A     |
-| Pinyo      | pinyoeng2.biz@gmail.com              | A     |
-| Ben        | ben.kh.soo@gmail.com                 | A     |
-| Ethan      | allen830810@gmail.com                | A     |
-| Hampus     | hampus.cs13@nycu.edu.tw              | B     |
-| Ling       | 0805linda2.0@gmail.com               | B     |
-| Jack       | chang50513@gmail.com                 | B     |
-| Kevin      | kun0223.mg12@nycu.edu.tw             | B     |
-| Sabrina    | sabrina09liao@gmail.com              | B     |
-| Roy        | loyi.mg13@nycu.edu.tw                | B     |
-| Alice | pinyu0105.mg12@nycu.edu.tw           | B     |
+
+| Index | Name       | Overleaf Account                     | Group |
+|-------|------------|--------------------------------------|-------|
+| 1     | Elaine     | a0976512521@gmail.com                | A     |
+| 2     | Apple      | apple55500608@gmail.com              | A     |
+| 3     | Rebecca    | rebecca8411065596@gmail.com          | A     |
+| 4     | Simon      | simonhs.hs10@nycu.edu.tw             | A     |
+| 5     | Pinyo      | pinyoeng2.biz@gmail.com              | A     |
+| 6     | Ben        | ben.kh.soo@gmail.com                 | A     |
+| 7     | Ethan      | allen830810@gmail.com                | A     |
+| 8     | Hampus     | hampus.cs13@nycu.edu.tw              | B     |
+| 9     | Ling       | 0805linda2.0@gmail.com               | B     |
+| 10    | Jack       | chang50513@gmail.com                 | B     |
+| 11    | Kevin      | kun0223.mg12@nycu.edu.tw             | B     |
+| 12    | Sabrina    | sabrina09liao@gmail.com              | B     |
+| 13    | Roy        | loyi.mg13@nycu.edu.tw                | B     |
+| 14    | Alice      | pinyu0105.mg12@nycu.edu.tw           | B     |
+
 
 
 NOTE: Edison dropped the course. 
