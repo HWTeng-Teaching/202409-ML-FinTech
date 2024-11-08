@@ -49,8 +49,8 @@ https://www.overleaf.com/read/nfqdcvdrrkbt#85ba4e
 | Sabrina | sabrina09liao@gmail.com      | B     |
 | Roy     | loyi.mg13@nycu.edu.tw        | B     |
 | Alice   | pinyu0105.mg12@nycu.edu.tw   | B     |
-| Lynn    | ?                            | ?     |
-| Scottie | ?                            | ?     |
+| Lynn    | ?                            | B     |
+| Scottie | ?                            | A     |
 
 
 
