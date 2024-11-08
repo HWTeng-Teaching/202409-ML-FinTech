@@ -53,5 +53,15 @@ https://www.overleaf.com/read/nfqdcvdrrkbt#85ba4e
 | Scottie | ?                            | A     |
 
 
+## Group A
+
+<img width="839" alt="image" src="https://github.com/user-attachments/assets/9eb35c14-c120-4a52-9d6a-9bf5e169a035">
+
+
+## Group B
+
+<img width="840" alt="image" src="https://github.com/user-attachments/assets/31c260f5-e1e8-4916-a4f7-dbdf23781cb5">
+
+
 
 NOTE: Edison dropped the course. 
