@@ -5,7 +5,7 @@
 
 - Rescaled-clustering in credit scoring 
 https://www.overleaf.com/read/nfqdcvdrrkbt#85ba4e
-- Paul's these https://www.overleaf.com/read/xybhjvkvrfzw#82ad75
+- Paul's thesis https://www.overleaf.com/read/xybhjvkvrfzw#82ad75
 - Group A: https://www.overleaf.com/read/gpyrydjbsxvg#9f615e
 - Group B: https://www.overleaf.com/read/chvbwyjnmbdn#b8a374
 
