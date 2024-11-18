@@ -1,4 +1,4 @@
-
+![image](https://github.com/user-attachments/assets/61595798-da91-4a52-b0e9-56a88543993e)
 # Projects
 
 ## Overleaf projects
@@ -22,7 +22,7 @@ https://www.overleaf.com/read/nfqdcvdrrkbt#85ba4e
 | 6  | Forecasting ESG score Based on 10-K Annual Reports                                         | Sabrina                                  | B|
 | 7  | Cryptocurrency High-Frequency Trading Strategy based on Orderbook Behavior | lynn                               | B|
 | 8  |Rent price prediction                                                 | Jack                                     | B|
-| 9  |Predicting Stock Buy and Sell Points Using ML with technical Indicators| Roy                                     |B|
+| 9  |Forecasting Consumer Spending Amounts Using Machine Learning and Time Series Analysis| Roy                                     |B|
 | 10 |Catch a Volatility Contraction Pattern (VCP) Breakout in Taiwan Market| Alice                                   | B |
 | 11 | Amex Default Prediction                                              | Hampus                                   | B |
 
