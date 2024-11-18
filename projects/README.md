@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/61595798-da91-4a52-b0e9-56a88543993e)
 # Projects
 
 ## Overleaf projects
