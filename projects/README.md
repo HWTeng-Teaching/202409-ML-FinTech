@@ -19,7 +19,7 @@ https://www.overleaf.com/read/nfqdcvdrrkbt#85ba4e
 | 3  | 股價預測，以NVIDIA為例                                                  | Ben, Apple, Simon                       | A|
 | 4  | Maximizing Long-Term Portfolio Growth in Global Private Equity       | Pinyo, Ethan, Rebecca                   | A|
 | 5  |「機器學習應用於偵測信用卡詐欺的績效評估」                                   | Kevin, Ling                              | B|
-| 6  | 基於ESG語氣用字的投資策略報酬預測                                         | Sabrina                                  | B|
+| 6  | Forecasting ESG score Based on 10-K Annual Reports                                         | Sabrina                                  | B|
 | 7  | Cryptocurrency High-Frequency Trading Strategy based on Orderbook Behavior | lynn                               | B|
 | 8  |Rent price prediction                                                 | Jack                                     | B|
 | 9  |Predicting Stock Buy and Sell Points Using ML with technical Indicators| Roy                                     |B|
