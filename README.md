@@ -1,7 +1,13 @@
 # 202409-ML-FinTech
 
 
+<img width="964" alt="image" src="https://github.com/user-attachments/assets/d29e6219-923a-491e-afc5-efbe34b1188c">
+
+
 ## IC1007
+
+
+
 
 https://forms.gle/Cuqd29b3ehdMwVBy6
 
