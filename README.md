@@ -32,7 +32,6 @@ https://www.alpharithms.com/how-to-create-a-folder-in-github-repos-463022/#:~:te
 | 14    | 羅頤                           | Roy                 |
 | 15    | 宋羿庭                         | Ethan               |
 | 16    | 張宏正                         | Jack                |
-| 17    | 陳冠希                         | Edison              |
 
 
 
