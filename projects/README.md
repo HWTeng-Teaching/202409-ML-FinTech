@@ -8,7 +8,7 @@ In your folder, please include
 3) Data
 4) README.md: Title, authors, abstract, keywords, data of source (if data is publicaly available), and link to shared overleaf. 
 
-See my demo in the folder "00 TEN rescaled-and-clustering"
+See my demo in the folder "00_TEN_cluster-then-predict"
 
 ## Demonstrations of projects
 
