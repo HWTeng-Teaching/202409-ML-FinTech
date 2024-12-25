@@ -8,6 +8,6 @@ Keywords: Rental price prediction, machine learning, data-driven decision-making
 
 Data of source  
 
-Dept of Land Administration, M. O. I.,: https://plvr.land.moi.gov.tw/DownloadOpenData
+  Dept of Land Administration, M. O. I.,: https://plvr.land.moi.gov.tw/DownloadOpenData
 
 Link to overleaf: https://www.overleaf.com/project/672d702f09abf87f246d9cf5
