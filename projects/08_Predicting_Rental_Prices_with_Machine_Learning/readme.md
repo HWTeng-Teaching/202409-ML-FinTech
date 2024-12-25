@@ -1,4 +1,4 @@
-#Predicting Rental Prices with Machine Learning: Insights and Applications
+# Predicting Rental Prices with Machine Learning: Insights and Applications
 
 By Hung-Cheng Chang
 
