@@ -1,4 +1,4 @@
-# Winner trades all - NVIDIA stock prediction
+# Winner Trades All - NVIDIA Stock Prediction
 
 By Hsu-Chen Hsiao, Ka-Ho Soo, Tzu-Ping Wang
 
@@ -7,7 +7,5 @@ the current methods may be improved upon. The research uses historical NVIDIA st
 compare the predictive power of our model against the baseline. The research aims to identity potential methods or factors that may improve the accuracy of stock price fluctuation predictions
 
 Keywords: Stock Prediction, Machine Learning, NVIDIA
-
-Data of source  
 
 Link to overleaf: https://www.overleaf.com/project/672811e885d915f3a69984f7
