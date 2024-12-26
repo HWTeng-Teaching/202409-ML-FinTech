@@ -10,6 +10,4 @@ Keywords: Stock Prediction, Machine Learning, NVIDIA
 
 Data of source  
 
-Dept of Land Administration, M. O. I.,: https://plvr.land.moi.gov.tw/DownloadOpenData
-
 Link to overleaf: https://www.overleaf.com/project/672811e885d915f3a69984f7
