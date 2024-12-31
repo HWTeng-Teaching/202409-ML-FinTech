@@ -1,0 +1,24 @@
+{
+	"edgar_crawler": {
+		"start_year": 2024,
+		"end_year": 2024,
+		"quarters": [1, 2, 3, 4],
+		"filing_types": ["10-K"],
+		"cik_tickers": ["AAL", "DAL", "LUV", "UAL", "ALK", "SKYW", "JBLU", "HA", "SAVE"],
+		"user_agent": "Yu-Chi (sabrina09liao@gmail.com)",
+		"raw_filings_folder": "RAW_FILINGS",
+		"indices_folder": "INDICES",
+		"filings_metadata_file": "FILINGS_METADATA.csv",
+		"skip_present_indices": true
+	},
+	"extract_items": {
+		"raw_filings_folder": "RAW_FILINGS",
+		"extracted_filings_folder": "EXTRACTED_FILINGS",
+		"filings_metadata_file": "FILINGS_METADATA.csv",
+		"filing_types": ["10-K"],
+		"include_signature": false,
+		"items_to_extract": [],
+		"remove_tables": true,
+		"skip_extracted_filings": true
+	}
+}
