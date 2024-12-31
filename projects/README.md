@@ -32,5 +32,5 @@ https://www.overleaf.com/read/nfqdcvdrrkbt#85ba4e
 | 8  |Rent price prediction                                                 | Jack                                     | B|
 | 9  |Forecasting Consumer Spending Amounts Using Machine Learning and Time Series Analysis| Roy                                     |B|
 | 10 |Catch a Volatility Contraction Pattern (VCP) Breakout in Taiwan Market| Alice                                   | B |
-| 11 | Amex Default Prediction                                              | Hampus                                   | B |
+| 11 | Home Credit Default Prediction                                              | Hampus                                   | B |
 
