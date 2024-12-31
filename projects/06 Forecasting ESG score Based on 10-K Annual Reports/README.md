@@ -6,7 +6,8 @@ Environmental, Social, and Governance (ESG) awareness has gained increasing prom
 Keywords: ESG, Machine Learning, Lasso, XGBoost, Logistic Regresssion, Decision Tree
 
 Data of source
-1. 10K annual report dataset: https://www.kaggle.com/competitions/GiveMeSomeCredit/data](https://www.sec.gov/search-filings/edgar-search-assistance/accessing-edgar-data
+1. 10K annual report dataset:
+   https://www.kaggle.com/competitions/GiveMeSomeCredit/data](https://www.sec.gov/search-filings/edgar-search-assistance/accessing-edgar-data
 
 Link to overleaf: https://www.overleaf.com/project/672d702f09abf87f246d9cf5
 
